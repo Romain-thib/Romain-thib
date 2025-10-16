@@ -23,8 +23,9 @@
 
 ## 🚀 Projets
 
-- 🎨 [Mon Portfolio](https://romain-thib.github.io/Portfolio/)
-
-## 🐍 Contribution Snake
-
-![Snake gif](https://github.com/romain-thib/romain-thib/blob/output/github-contribution-grid-snake.svg)
+- [Mon Portfolio](https://romain-thib.github.io/Portfolio/)
+- [Art pour vivre](https://github.com/Romain-thib/Art-pour-vivre.git)
+- [Bomberman](https://github.com/Romain-thib/Bomberman.git)
+- [Lights-Off](https://github.com/Romain-thib/Lights-Off.git)
+- [2048](https://github.com/Romain-thib/2048.git)
+- [L'Ô Rhône](https://github.com/Romain-thib/L-O-Rhone.git)
