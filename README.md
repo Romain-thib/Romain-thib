@@ -28,7 +28,7 @@
 - [O Sol Sound](https://github.com/Romain-thib/O-Sol-Sound.git)
 - [Art pour vivre](https://github.com/Romain-thib/Art-pour-vivre.git)
 - [Bomberman](https://github.com/Romain-thib/Bomberman.git)
-- [Bomberman](https://github.com/Romain-thib/Soul-Mates.git)
+- [Soul-Mates](https://github.com/Romain-thib/Soul-Mates.git)
 - [Lights-Off](https://github.com/Romain-thib/Lights-Off.git)
 - [2048](https://github.com/Romain-thib/2048.git)
 - [L'Ô Rhône](https://github.com/Romain-thib/L-O-Rhone.git)
