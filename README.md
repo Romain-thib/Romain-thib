@@ -24,6 +24,7 @@
 ## 🚀 Projets
 
 - [Mon Portfolio](https://romain-thib.github.io/Portfolio/)
+- [O Sol Sound](https://github.com/Romain-thib/O-Sol-Sound.git)
 - [Art pour vivre](https://github.com/Romain-thib/Art-pour-vivre.git)
 - [Bomberman](https://github.com/Romain-thib/Bomberman.git)
 - [Lights-Off](https://github.com/Romain-thib/Lights-Off.git)
