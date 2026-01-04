@@ -23,7 +23,8 @@
 
 ## 🚀 Projets
 
-- [Mon Portfolio](https://romain-thib.github.io/Portfolio/)
+- [Mon Portfolio](https://romain-thib.github.io/Portfolio/) 
+- [Pac-Man](https://github.com/Romain-thib/Pac-Man.git)
 - [O Sol Sound](https://github.com/Romain-thib/O-Sol-Sound.git)
 - [Art pour vivre](https://github.com/Romain-thib/Art-pour-vivre.git)
 - [Bomberman](https://github.com/Romain-thib/Bomberman.git)
